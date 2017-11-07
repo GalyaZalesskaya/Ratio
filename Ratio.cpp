@@ -3,8 +3,6 @@
 #include <string>
 
 
-
-
 Ratio::Ratio(int x_,int y_)
 {
 	X = x_;
